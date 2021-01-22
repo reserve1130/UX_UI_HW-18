@@ -1,3 +1,70 @@
-h1 {
-    color: red;
+* {
+    font-family: "Tajawal";
+}
+
+.Header {
+    display: flex;
+    font-size: 32px;
+    justify-content: center;
+}
+
+.Section1 {
+    display: flex;
+    background-color: #F1EBE7;
+    height: 40%;
+    justify-content: center;
+}
+
+.Section2 {
+    display: flex;
+    background-color: #FF917A;
+    justify-content: center;
+}
+
+.Section3 {
+    display: flex;
+    background-color: #F0F4FF;
+    justify-content: center;
+}
+
+.Button1 {
+    display: flex;
+    align-items: flex-end;
+}
+
+.Button2 {
+    display: flex;
+    align-items: flex-end;
+}
+
+
+.Button3 {
+    display: flex;
+    align-items: flex-end;
+}
+
+.Header1 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.p1 {
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+.Header2 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #FFF;
+}
+
+.p2 {
+    color: #FFF;
+}
+
+.Header3 {
+    font-size: 32px;
+    font-weight: bold;
 }
